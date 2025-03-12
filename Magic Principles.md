@@ -1,0 +1,34 @@
+Magic System: Principles
+
+Core Principles
+Magic as Energy Manipulation: Magic bends reality by shaping energy from internal (life force, will), external (elements, nature), or transcendent (divine/eldritch) sources—creating, destroying, or twisting matter, energy, space, time, and consciousness.
+Duality of Power: Versatile and potent, yet unstable—strength brings unpredictability, risk, and cost.
+Alignment Influence: Virtuous, Self-Serving, or Malevolent stances shape magic’s flavor and compatibility.
+Source and Method Variety: Flows from Aethyrs, Void, etc., via Glyphs, Ceremonies, Chants, Forms, Bonds—each with unique edges.
+Cyber-Mythic Fusion: Blends primal sorcery with neon tech—cybernetics amplify, Void Drives hum with power.
+Sources of Magic
+Aethyric Magic: From Aethyrs—order and light. Creates, protects, enhances; communes with divine. Pros: Potent, precise. Cons: Demands loyalty, burns the unworthy.
+Void Magic: From Fallen Aethyrs and the Void—chaos and dark. Destroys, corrupts, summons; trades with eldritch. Pros: Limitless, raw. Cons: Risks madness, possession.
+Blood Magic: From life/death—blood, flesh, souls. Heals, binds, necromances; visceral and sacrificial. Pros: Personal, strong. Cons: Drains vitality, taboo.
+Elemental Magic: From nature—fire, water, earth, air, wood, metal. Shapes elements, abundant. Pros: Adaptable, plentiful. Cons: Environment-dependent, fickle.
+Cyber Magic: From tech—circuits, implants. Hacks, boosts, fires; synthetic edge. Pros: Fast, futuristic. Cons: Glitch-prone, tech-reliant.
+Nature Magic: From the wild—plants, beasts, Fae. Grows, heals, communes; subtle life. Pros: Enduring, harmonious. Cons: Weak in urban sprawls, Fae whims.
+Forms of Magic
+Glyphs: Etched symbols—wards, traps, portals. Precise but rigid; botched designs fizzle. Risk: Prep time locks casters in.
+Ceremonies: Rituals—summons, reshaping. Powerful but slow; interruptions unleash chaos. Risk: Vulnerability mid-rite.
+Chants: Spoken bursts—fire, mind-twists, banishment. Fast but wild; slips fray sanity. Risk: Chaos from missteps.
+Forms: Stances—boosts, blasts, scales. Immediate but taxing; injury breaks flow. Risk: Physical collapse.
+Bonds: Intimate links—amplifies, shares, dominates. Raw and electric; betrayal bares souls. Risk: Possession or overload.
+Activation
+Triggering the Spark: Magic ignites via catalysts—internal (Willpower, Emotion, Intention, Imagination) or external (Chants, Lights, Materials, Sounds). Internal drains the self; external risks interference.
+Method Link: Catalysts channel through Glyphs, Ceremonies, Chants, Forms, or Bonds—will shapes, methods deliver.
+Interactions
+Synergy: Fusion amplifies—Aethyric Glyphs + Elemental Chants = shield-storm. Power spikes, precision falters.
+Conflict: Clash weakens—Void Chants shred Aethyric Forms. Counters foes, risks collateral.
+Amplification: Stacking boosts—Dual Blood Bonds triple strength. Brute force, overload looms.
+Cancellation: Nullifies—Nature Chants silence Cyber Glyphs. Defense or sabotage, timing’s key.
+Reality’s Ripple: Elemental Forms quake planets, Void Ceremonies widen Voidgates—galaxy bites back.
+Advantages and Disadvantages
+Advantages: Magic grants godlike reach—creation, destruction, control. Fast or sweeping, it bends reality to will.
+Disadvantages: Always a cost—energy, sanity, allies. Overuse draws Aethyrs, Fallen, or worse. Mastery’s a tightrope.
+
