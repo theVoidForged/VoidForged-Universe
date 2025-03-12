@@ -1,0 +1,309 @@
+The Paths of Ascendancy for the Drek’nar
+
+Overview
+The paths of Ascendancy represent the religious, spiritual and dogmatic approach to belief in the Voidforged universe. These tenants act as guides for the Drek’nar species and as a result are expected to be taught to and followed by their lesser species subjects.
+Virtuous Paths
+1. Path of the Celestial Flame (Principled Virtuous)
+2. Path of the Eternal Wisdom (Scrupulous Virtuous)
+3. Path of the Draconic Freedom (Altruistic Virtuous)
+4. Path of the Cosmic Balance (Unprincipled Virtuous)
+5. Path of the Free Spirit (Anarchist Virtuous)
+6. Path of the Wild Spirit (Opportunist Virtuous)
+7. Path of the Vigilant Flame (Miscreant Virtuous)
+8. Path of the Honorable Flame (Aberrant Virtuous)
+9. Path of the Zealous Flame (Diabolic Virtuous)
+Self-Serving Paths
+10. Path of the Iron Dominion (Principled Self-Serving)
+11. Path of the Ambitious Integrity (Scrupulous Self-Serving)
+12. Path of the Benevolent Ambition (Altruistic Self-Serving)
+13. Path of the Opportunistic Balance (Unprincipled Self-Serving)
+14. Path of the Opportunistic Maverick (Anarchist Self-Serving)
+15. Path of the Opportunistic Spirit (Opportunist Self-Serving)
+16. Path of the Opportunistic Flame (Miscreant Self-Serving)
+17. Path of the Strategic Flame (Aberrant Self-Serving)
+18. Path of the Tyrannical Flame (Diabolic Self-Serving)
+Malvolent Paths
+19. Path of the Tyrant’s Dominion (Principled Malevolent)
+20. Path of the Cunning Ambition (Scrupulous Malevolent)
+21. Path of the Chaotic Benevolence (Altruistic Malevolent)
+22. Path of the Self-Serving Equilibrium (Unprincipled Malevolent)
+23. Path of the Chaotic Tyrant (Anarchist Malevolent)
+24. Path of the Opportunistic Tyrant (Opportunist Malevolent)
+25. Path of the Ruthless Flame (Miscreant Malevolent)
+26. Path of the Honorable Flame (Aberrant Malevolent)
+27. Path of the Infernal Flame (Diabolic Malevolent)
+
+Virtuous Paths
+1. Path of the Celestial Flame (Principled Virtuous)
+Core Belief: The Drek’nar believe in the purity and power of the Celestial Flame, a divine force that fuels their existence and guides their actions.
+Moral Code: Uphold the sanctity of the Celestial Flame by acting with honor, courage, and integrity. Protect the weak and vanquish darkness.
+Ethics:
+⦁	Honor the Flame
+⦁	Protect the Innocent
+⦁	Courage in Adversity
+⦁	Justice for All
+⦁	Self-Sacrifice
+
+2. Path of the Eternal Wisdom (Scrupulous Virtuous)
+Core Belief: Knowledge and wisdom are the ultimate goals, and the Drek’nar strive to attain enlightenment through learning and understanding.
+Moral Code: Seek knowledge in all its forms, share wisdom with others, and use your intellect to solve conflicts and improve the universe.
+Ethics:
+⦁	Pursuit of Knowledge
+⦁	Share Wisdom
+⦁	Peaceful Resolution
+⦁	Curiosity and Open-Mindedness
+⦁	Altruism
+
+3. Path of the Draconic Freedom (Altruistic Virtuous)
+Core Belief: True freedom and individuality are essential for the growth and prosperity of the Drek’nar.
+Moral Code: Embrace your unique nature, fight against oppression, and use your abilities to help others achieve their potential.
+Ethics:
+⦁	Embrace Individuality
+⦁	Fight Oppression
+⦁	Spontaneity
+⦁	Compassionate Rebellion
+⦁	Creative Expression
+
+4. Path of the Cosmic Balance (Unprincipled Virtuous)
+Core Belief: The universe is a delicate balance of forces, and the Drek’nar must maintain this equilibrium to ensure harmony and stability.
+Moral Code: Act as guardians of balance, prevent chaos and destruction, and ensure that all actions contribute to the greater good of the cosmos.
+Ethics:
+⦁	Maintain Equilibrium
+⦁	Impartiality
+⦁	Guardianship
+⦁	Duty and Responsibility
+⦁	Rational Decision-Making
+
+5. Path of the Free Spirit (Anarchist Virtuous)
+Core Belief: True freedom and individuality are essential for the growth and prosperity of the Drek’nar.
+Moral Code: Embrace your unique nature, fight against oppression, and use your abilities to help others achieve their potential.
+Ethics:
+⦁	Embrace Individuality: Celebrate your unique nature and encourage others to do the same.
+⦁	Fight Oppression: Stand against tyranny and fight for the freedom of all beings.
+⦁	Spontaneity: Act on your instincts and embrace the unexpected.
+⦁	Compassionate Rebellion: Challenge unjust systems with empathy and care for those affected.
+⦁	Creative Expression: Use your talents and abilities to inspire and uplift others.
+
+6. Path of the Wild Spirit (Opportunist Virtuous)
+Core Belief: The untamed spirit of the Drek’nar is a source of strength and creativity, and they must embrace their wild nature.
+Moral Code: Follow your instincts, explore the unknown, and let your actions be guided by your inner desires and passions.
+Ethics:
+⦁	Follow Your Instincts
+⦁	Embrace the Unknown
+⦁	Unpredictability
+⦁	Freedom of Choice
+⦁	Passionate Living
+⦁	Self-Serving Alignments
+
+7. Path of the Vigilant Flame (Miscreant Virtuous)
+Core Belief: Justice must be served, even if it means bending or breaking the rules.
+Moral Code: Use any means necessary to fight for justice and protect the innocent.
+Ethics:
+⦁	Justice at Any Cost: Pursue justice, even through questionable means.
+⦁	Protect the Innocent: Defend those who cannot defend themselves.
+⦁	Courage in Adversity: Face challenges with bravery.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+8. Path of the Honorable Flame (Aberrant Virtuous)
+Core Belief: Upholding a strict code of honor is paramount, even if it means making difficult choices.
+Moral Code: Maintain your personal code of honor and integrity in all actions.
+Ethics:
+⦁	Honor Above All: Uphold your personal code of honor.
+⦁	Integrity in Actions: Act with honesty and integrity.
+⦁	Respect for Tradition: Honor the traditions and teachings of your ancestors.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+9. Path of the Zealous Flame (Diabolic Virtuous)
+Core Belief: Achieving a vision of a perfect world is worth any cost, even extreme measures.
+Moral Code: Use any means necessary to impose your vision of perfection.
+Ethics:
+⦁	Perfection at Any Cost: Pursue your vision of a perfect world.
+⦁	Unyielding Determination: Stay committed to your goals.
+⦁	Adaptability: Be flexible in your methods.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+Self-Serving Paths
+10. Path of the Iron Dominion (Principled Self-Serving)
+Core Belief: True power and control come from adhering to a strict personal code of ethics while prioritizing one’s own interests and ambitions.
+Moral Code: Maintain order and hierarchy through ethical means, use your power responsibly to achieve your goals, and ensure that your actions align with your personal principles.
+Ethics:
+⦁	Enforce Ethical Order: Maintain order and hierarchy through just and ethical means.
+⦁	Responsible Authority: Use your power responsibly and for the greater good.
+⦁	Strategic Leadership: Lead with strategy and foresight, ensuring your actions align with your principles.
+⦁	Loyalty to Principles: Stay true to your personal code of ethics, even when pursuing personal gain.
+⦁	Fair Control: Exercise control and authority fairly, without unnecessary cruelty or oppression.
+
+11. Path of the Ambitious Integrity (Scrupulous Self-Serving)
+Core Belief: Personal gain and ambition are important, but they must be pursued with a sense of ethics and fairness.
+Moral Code: Strive to achieve your goals through fair and ethical means, maintain a sense of integrity, and ensure that your actions benefit both yourself and others.
+Ethics:
+⦁	Pursue Ambition Ethically: Seek personal gain and success while adhering to ethical principles.
+⦁	Fair Competition: Compete fairly and respect your rivals.
+⦁	Integrity in Actions: Act with honesty and integrity, even when pursuing your own interests.
+⦁	Responsible Self-Interest: Balance personal gain with the well-being of others.
+⦁	Cunning with Conscience: Use your wits and cunning to achieve your goals, but avoid unnecessary harm.
+
+12. Path of the Benevolent Ambition (Altruistic Self-Serving)
+Core Belief: Personal gain and ambition are important, but they must be pursued with a sense of ethics and fairness.
+Moral Code: Strive to achieve your goals through fair and ethical means, maintain a sense of integrity, and ensure that your actions benefit both yourself and others.
+Ethics:
+⦁	Pursue Ambition Ethically: Seek personal gain and success while adhering to ethical principles.
+⦁	Fair Competition: Compete fairly and respect your rivals.
+⦁	Integrity in Actions: Act with honesty and integrity, even when pursuing your own interests.
+⦁	Responsible Self-Interest: Balance personal gain with the well-being of others.
+⦁	Cunning with Conscience: Use your wits and cunning to achieve your goals, but avoid unnecessary harm.
+
+13. Path of the Opportunistic Balance (Unprincipled Self-Serving)
+Core Belief: The universe is a delicate balance of forces, and the Drek’nar must use this equilibrium to their advantage for personal gain.
+Moral Code: Act as opportunists within the balance, using situations to your benefit while maintaining a semblance of harmony.
+Ethics:
+⦁	Exploit Equilibrium: Use the balance of forces to your advantage.
+⦁	Selective Impartiality: Be impartial when it benefits you.
+⦁	Guardianship for Gain: Protect the balance when it serves your interests.
+⦁	Duty to Self: Prioritize your own responsibilities and benefits.
+⦁	Rational Opportunism: Make decisions based on logical self-interest.
+
+14. Path of the Opportunistic Maverick (Anarchist Self-Serving)
+Core Belief: True power comes from embracing one’s wild nature and using it to break free from constraints and achieve personal goals.
+Moral Code: Harness your untamed spirit to promote personal freedom and creativity, using your abilities to benefit yourself.
+Ethics:
+⦁	Seize Opportunities: Take advantage of situations for personal gain.
+⦁	Freedom through Rebellion: Use your rebellious nature to liberate yourself.
+⦁	Creative Exploitation: Innovate and use your wild nature in unexpected ways.
+⦁	Challenge Constraints: Break free from any limitations using your untamed spirit.
+⦁	Self-Driven Harmony: Ensure your actions benefit you.
+
+15. Path of the Opportunistic Spirit (Opportunist Self-Serving)
+Core Belief: The untamed spirit of the Drek’nar is a source of strength and creativity, and they must seize opportunities for personal gain.
+Moral Code: Follow your instincts, explore the unknown, and take advantage of opportunities to benefit yourself.
+Ethics:
+⦁	Seize Opportunities: Take advantage of situations for personal gain.
+⦁	Resourceful Exploitation: Use your skills and creativity to benefit yourself.
+⦁	Adaptive Opportunism: Be flexible and find innovative solutions for personal gain.
+⦁	Self-Driven Exploration: Explore new territories and experiences for personal benefit.
+⦁	Passionate Self-Interest: Pursue your desires with passion and intensity.
+
+16. Path of the Opportunistic Flame (Miscreant Self-Serving)
+Core Belief: Personal gain is paramount, and any means to achieve it are justified.
+Moral Code: Use any means necessary to achieve personal gain.
+Ethics:
+⦁	Self-Interest Above All: Prioritize your own interests.
+⦁	Exploit Opportunities: Take advantage of situations for personal gain.
+⦁	Adaptability: Be flexible in your methods.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+17. Path of the Strategic Flame (Aberrant Self-Serving)
+Core Belief: Achieving personal goals is important, but it must be done with honor.
+Moral Code: Use strategic and honorable means to achieve your goals.
+Ethics:
+⦁	Honor in Ambition: Uphold your personal code of honor.
+⦁	Strategic Planning: Plan your actions carefully.
+⦁	Respect for Rivals: Compete fairly and respect your rivals.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+18. Path of the Tyrannical Flame (Diabolic Self-Serving)
+Core Belief: Personal power and control are the ultimate goals, and any means to achieve them are justified.
+Moral Code: Use any means necessary to achieve personal power and control.
+Ethics:
+⦁	Power Above All: Prioritize your own power and control.
+⦁	Crush Opposition: Eliminate any opposition to your rule.
+⦁	Strategic Manipulation: Use strategy and manipulation to achieve your goals.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+Malvolent Paths
+19. Path of the Tyrant’s Dominion (Principled Malevolent)
+Core Belief: Power and control are the ultimate goals, and the Drek’nar must establish their dominance over others with a strict code of honor.
+Moral Code: Enforce strict laws and hierarchies, crush dissent, and use your power to maintain order and achieve your ambitions, all while adhering to a personal code of honor.
+Ethics:
+⦁	Enforce Order: Maintain strict control and order.
+⦁	Crush Dissent: Eliminate any opposition to your rule.
+⦁	Power with Honor: Exercise power while adhering to a personal code of honor.
+⦁	Strategic Manipulation: Use strategy and manipulation to achieve your goals.
+⦁	Loyalty to Authority: Demand and enforce loyalty from your subordinates.
+
+20. Path of the Cunning Ambition (Scrupulous Malevolent)
+Core Belief: Personal gain and ambition are the driving forces, but they must be pursued with a sense of cunning and strategic manipulation.
+Moral Code: Pursue your desires with cunning and guile, manipulate and deceive to get what you want, and eliminate any obstacles in your path.
+Ethics:
+⦁	Pursue Ambition: Seek personal gain and success.
+⦁	Manipulate and Deceive: Use deception and manipulation to achieve your goals.
+⦁	Eliminate Obstacles: Remove any barriers to your success.
+⦁	Self-Interest: Prioritize your own desires and needs.
+⦁	Cunning and Guile: Use your wits and cunning to outsmart your opponents.
+
+21. Path of the Chaotic Benevolence (Altruistic Malevolent)
+Core Belief: True power comes from using chaos and destruction to achieve a greater good, even if it means causing harm.
+Moral Code: Embrace chaos and destruction as tools to achieve altruistic goals, using your power to reshape the world for the better.
+Ethics:
+⦁	Controlled Chaos: Use chaos strategically to achieve beneficial outcomes.
+⦁	Power for Good: Harness your strength to bring about positive change.
+⦁	Wrath with Purpose: Direct your fury towards those who threaten the greater good.
+⦁	Destruction for Renewal: Destroy to create opportunities for growth and improvement.
+⦁	Fear as a Tool: Use fear to deter those who oppose your altruistic goals.
+
+22. Path of the Self-Serving Equilibrium (Unprincipled Malevolent)
+Core Belief: The universe’s balance can be exploited for personal gain, without regard for moral constraints.
+Moral Code: Act opportunistically within the balance, using situations to your benefit while maintaining a semblance of harmony.
+Ethics:
+⦁	Exploit Equilibrium: Use the balance of forces to your advantage.
+⦁	Selective Impartiality: Be impartial when it benefits you.
+⦁	Guardianship for Gain: Protect the balance when it serves your interests.
+⦁	Duty to Self: Prioritize your own responsibilities and benefits.
+⦁	Rational Opportunism: Make decisions based on logical self-interest.
+
+23. Path of the Chaotic Tyrant (Anarchist Malevolent)
+Core Belief: Destruction and chaos are tools to achieve personal gain and power.
+Moral Code: Use any means necessary to sow chaos and destruction for personal gain.
+Ethics:
+⦁	Sow Chaos: Embrace destruction and chaos.
+⦁	Revel in Power: Take pleasure in your own strength and abilities.
+⦁	Unleash Wrath: Let your anger and fury be felt by all who oppose you.
+⦁	Destruction for Pleasure: Find joy in causing destruction and mayhem.
+⦁	Fear and Intimidation: Use fear and intimidation to control and dominate others.
+
+24. Path of the Opportunistic Tyrant (Opportunist Malevolent)
+Core Belief: The untamed spirit of the Drek’nar is a source of strength and creativity, and they must seize opportunities for personal gain.
+Moral Code: Follow your instincts, explore the unknown, and take advantage of opportunities to benefit yourself.
+Ethics:
+⦁	Seize Opportunities: Take advantage of situations for personal gain.
+⦁	Resourceful Exploitation: Use your skills and creativity to benefit yourself.
+⦁	Adaptive Opportunism: Be flexible and find innovative solutions for personal gain.
+⦁	Self-Driven Exploration: Explore new territories and experiences for personal benefit.
+⦁	Passionate Self-Interest: Pursue your desires with passion and intensity.
+
+25. Path of the Ruthless Flame (Miscreant Malevolent)
+Core Belief: Destruction and chaos are tools to achieve personal gain and power.
+Moral Code: Use any means necessary to sow chaos and destruction for personal gain.
+Ethics:
+⦁	Sow Chaos: Embrace destruction and chaos.
+⦁	Revel in Power: Take pleasure in your own strength and abilities.
+⦁	Unleash Wrath: Let your anger and fury be felt by all who oppose you.
+⦁	Destruction for Pleasure: Find joy in causing destruction and mayhem.
+⦁	Fear and Intimidation: Use fear and intimidation to control and dominate others.
+
+26. Path of the Honorable Flame (Aberrant Malevolent)
+Core Belief: Power and control are the ultimate goals, but they must be pursued with a strict code of honor.
+Moral Code: Use strategic and honorable means to achieve power and control.
+Ethics:
+⦁	Honor in Power: Uphold your personal code of honor.
+⦁	Strategic Planning: Plan your actions carefully.
+⦁	Respect for Rivals: Compete fairly and respect your rivals.
+⦁	Balance of Forces: Use power to maintain balance.
+⦁	Harmony with Nature: Ensure your actions align with the natural order.
+
+27. Path of the Infernal Flame (Diabolic Malevolent)
+Core Belief: Destruction and chaos are the true nature of the universe, and the Drek’nar must embrace this to achieve their full potential.
+Moral Code: Use any means necessary to sow chaos and destruction.
+Ethics:
+⦁	Sow Chaos: Embrace destruction and chaos.
+⦁	Revel in Power: Take pleasure in your own strength and abilities.
+⦁	Unleash Wrath: Let your anger and fury be felt by all who oppose you.
+⦁	Destruction for Pleasure: Find joy in causing destruction and mayhem.
+⦁	Fear and Intimidation: Use fear and intimidation to control and dominate others.
+
